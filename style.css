@@ -1,0 +1,40 @@
+.ser{
+    text-align: center;
+    font-size: 60px;
+    font-family: 'Times New Roman', Times, serif;
+    color: blue;
+}
+.pro{
+    text-align: center;
+    font-size: 60px;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(0, 17, 255);
+
+}
+.sec1{
+    background-color: rgb(209, 237, 246);
+}
+.sec1 p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.sec2{
+    background-color: rgb(181, 214, 230);
+}
+.sec3{
+    background-color: rgb(181, 214, 230);
+}
+.sec4{
+    background-color: rgb(0, 0, 0);
+    height: 200PX;
+
+}
+.sec4 h1{
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+    color: white;
+}
+.sec4 p{
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+    color: white;
+}
